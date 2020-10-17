@@ -1,2 +1,3 @@
 # web-dev2
-This is an example of html webb dev
+This is an Maths Website
+An example of html
